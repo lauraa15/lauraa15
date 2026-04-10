@@ -27,14 +27,14 @@ Welcome to my GitHub! I am an Informatics Engineering student at Maranatha Chris
 - 💬 **Ask me about:** ERP Implementation, Network Routing, Python, or Hackathon Strategies!
 
 ## 🏆 Recent Achievements
-* **2nd Place Winner** at Global #HACK 2025 (Developed *FloodNav* concept)
+* **2nd Place Winner** at Global #HACK 2025: Impactful Innovation (Developed *FloodNav* concept)
 * **National Semifinalist** at ElevAIte Indonesia AI Hackathon 2025 (Developed *Healy* concept)
 * **National Top 24** (Individual) at Codehero Competition 2024 by WPU
 
 ## 💻 Tech Stack & Tools
 **Languages & Development:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Security & Networking:**
